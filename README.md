@@ -302,7 +302,7 @@ LinkedIn:
 linkedin.com/in/samuel-olagbenro
 
 GitHub:
-github.com/samueleniola
+github.com/SamuelOlagbenro
 
 ⸻
 
