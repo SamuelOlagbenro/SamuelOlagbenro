@@ -83,6 +83,4 @@ Credentials should be listed as completed only after they have been earned.
 * Portfolio: Data Science Portfolio
 * GitHub: @SamuelOlagbenro
 
-⸻
-
 Building practical solutions at the intersection of Data Science, Machine Learning, and Agentic AI.
