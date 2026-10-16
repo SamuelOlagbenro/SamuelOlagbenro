@@ -17,7 +17,7 @@ My work spans Machine Learning, Deep Learning, Generative AI, RAG, and Agentic A
 
 ⭐ Featured Projects
 
-1. Gas Turbine Fault Detection System
+1. [Gas Turbine Fault Detection System](https://github.com/SamuelOlagbenro/Gas-Turbine-Fault-Detection)
 
 An industrial machine learning project focused on predictive maintenance and early fault detection using sensor data.
 
