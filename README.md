@@ -29,25 +29,26 @@ A retrieval-augmented recommendation application combining semantic search, stru
 
 Focus: RAG · Semantic Search · Vector Retrieval · Generative AI
 
-3. Multi-Model AI Assistant
+3. [Multi-Model AI Assistant](https://github.com/SamuelOlagbenro/Multi-Model-AI-Assistant)
 
 A multi-model AI application integrating different LLMs through a unified interface, with backend orchestration and structured outputs.
 
 Tech: Python · Flask · LangChain · IBM watsonx.ai
 
-4. DocChat Multi-Agent RAG System
+4. [DocChat Multi-Agent RAG System](https://github.com/SamuelOlagbenro/DocChat-Multi-Agent-RAG-System)
+
 
 An AI-powered document question-answering project exploring retrieval-augmented generation and multi-agent workflows.
 
 Focus: RAG · Agentic AI · Document Processing · LLM Orchestration
 
-5. LangGraph Agents
+5. [LangGraph Agents](https://github.com/SamuelOlagbenro/LangGraph-Agents)
 
 Hands-on implementations exploring stateful agent workflows, Reflection, Reflexion, and the ReAct pattern using LangGraph.
 
 Focus: Agentic AI · LangGraph · Tool Use · Workflow Orchestration
 
-6. Credit Card Fraud Detection
+6. [Credit Card Fraud Detection](https://github.com/SamuelOlagbenro/Credit-Card-Fraud-Detection-App)
 
 A machine learning project focused on detecting fraudulent transactions using classification and anomaly-detection techniques.
 
