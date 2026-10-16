@@ -80,8 +80,8 @@ Credentials should be listed as completed only after they have been earned.
 
 📫 Let’s Connect
 
-* LinkedIn: Samuel Olagbenro
-* Portfolio: Data Science Portfolio
-* GitHub: @SamuelOlagbenro
+* LinkedIn: [Samuel Olagbenro](https://www.linkedin.com/in/samuel-olagbenro)
+* Portfolio: [Data Science Portfolio](https://www.datascienceportfol.io/Seniola961)
+* GitHub: [@SamuelOlagbenro](https://github.com/SamuelOlagbenro)
 
 Building practical solutions at the intersection of Data Science, Machine Learning, and Agentic AI.
