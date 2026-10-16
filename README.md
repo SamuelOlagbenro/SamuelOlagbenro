@@ -1,309 +1,88 @@
-👋 Hi, I’m Samuel Olagbenro
+Hi, I’m Samuel Olagbenro 👋
 
-Data Scientist | AI/ML Engineer | Generative AI & Agentic AI
+Data Scientist | AI/ML Engineer
 
-I’m a Data Scientist and AI/ML Engineer passionate about building intelligent, data-driven solutions that transform complex data into actionable insights, predictions, and AI-powered applications.
+I build machine learning systems and AI-powered applications that transform data into actionable insights and intelligent solutions.
 
-My work spans Data Science, Machine Learning, Deep Learning, Generative AI, Retrieval-Augmented Generation (RAG), and Agentic AI, with a focus on applying these technologies to practical, real-world problems.
+My work spans Machine Learning, Deep Learning, Generative AI, RAG, and Agentic AI, with particular interests in predictive analytics, industrial AI, and intelligent automation.
 
-I’m particularly interested in Oil & Gas, Energy, Industrial AI, Predictive Maintenance, Business Intelligence, and intelligent automation.
+🌍 Interested in building practical AI solutions for real-world problems.
 
-⸻
+🚀 What I Build
 
-🚀 What I Do
+* Machine Learning Systems: Predictive modeling, classification, anomaly detection, and predictive maintenance.
+* Generative AI Applications: Retrieval-Augmented Generation (RAG), semantic search, and LLM-powered applications.
+* Agentic AI Systems: Tool-using agents, stateful workflows, and multi-agent orchestration.
+* Data Science Solutions: Data preprocessing, exploratory analysis, feature engineering, model evaluation, and visualization.
 
-📊 Data Science & Analytics
+⭐ Featured Projects
 
-* Exploratory Data Analysis (EDA)
-* Statistical Analysis
-* Data Cleaning & Transformation
-* Feature Engineering
-* Predictive Analytics
-* Data Visualization
-* Business Intelligence
-* Data-driven Decision Making
+1. Gas Turbine Fault Detection System
 
-🤖 Machine Learning
+An industrial machine learning project focused on predictive maintenance and early fault detection using sensor data.
 
-* Classification
-* Regression
-* Clustering
-* Anomaly Detection
-* Recommendation Systems
-* Predictive Maintenance
-* Feature Engineering
-* Model Evaluation & Optimization
+Tech: Python · Pandas · Scikit-learn · XGBoost · FastAPI
 
-🧠 Deep Learning & AI
+2. Food Recommendation System with RAG
 
-* Neural Networks
-* Deep Learning
-* Natural Language Processing
-* Computer Vision
-* Transfer Learning
-* AI Model Development & Evaluation
+A retrieval-augmented recommendation application combining semantic search, structured filtering, and LLM-powered responses.
 
-✨ Generative AI
+Focus: RAG · Semantic Search · Vector Retrieval · Generative AI
 
-* Large Language Models (LLMs)
-* Prompt Engineering
-* Retrieval-Augmented Generation (RAG)
-* Embeddings
-* Vector Search
-* LLM Applications
-* AI-powered Knowledge Systems
+3. Multi-Model AI Assistant
 
-🧩 Agentic AI
+A multi-model AI application integrating different LLMs through a unified interface, with backend orchestration and structured outputs.
 
-I build and explore Agentic AI systems that combine LLMs with tools, retrieval, structured workflows, and decision-making capabilities.
+Tech: Python · Flask · LangChain · IBM watsonx.ai
 
-Key areas include:
+4. DocChat Multi-Agent RAG System
 
-* AI Agents
-* Agentic RAG
-* Tool & Function Calling
-* LLM Orchestration
-* Multi-step AI Workflows
-* Retrieval & Tool Selection
-* Context & Memory Management
-* AI Evaluation
-* Guardrails
-* Human-in-the-loop Systems
+An AI-powered document question-answering project exploring retrieval-augmented generation and multi-agent workflows.
 
-⸻
+Focus: RAG · Agentic AI · Document Processing · LLM Orchestration
 
-🛠️ Technical Skills
+5. LangGraph Agents
 
-Programming & Data
+Hands-on implementations exploring stateful agent workflows, Reflection, Reflexion, and the ReAct pattern using LangGraph.
 
-Python • SQL • Pandas • NumPy • Matplotlib • Seaborn • Plotly
+Focus: Agentic AI · LangGraph · Tool Use · Workflow Orchestration
 
-Machine Learning
+6. Credit Card Fraud Detection
 
-Scikit-learn • XGBoost • Classification • Regression • Clustering • Anomaly Detection • Feature Engineering • Model Evaluation • Hyperparameter Optimization
+A machine learning project focused on detecting fraudulent transactions using classification and anomaly-detection techniques.
 
-Deep Learning
+Focus: Imbalanced Classification · Feature Engineering · Model Evaluation
 
-TensorFlow • Keras • PyTorch • Neural Networks • NLP • Computer Vision
+🛠️ Tech Stack
 
-Generative AI & Agentic AI
+Languages: Python · SQL
 
-LLMs • RAG • Agentic RAG • AI Agents • LangChain • LangGraph • Hugging Face • Embeddings • Vector Databases • Tool Calling • Prompt Engineering
+Data Science & Machine Learning: Pandas · NumPy · Scikit-learn · XGBoost
 
-Analytics & Visualization
+Deep Learning: PyTorch · TensorFlow · Keras
 
-Power BI • Microsoft Excel • Data Visualization • Statistical Analysis • Business Analytics
+Generative & Agentic AI: LangChain · LangGraph · Hugging Face · RAG · Embeddings · Vector Databases
 
-Development & Tools
+Backend & Tools: Flask · FastAPI · Git · GitHub · Jupyter Notebook
 
-Git • GitHub • Jupyter Notebook • Google Colab • VS Code • REST APIs • FastAPI
-
-⸻
-
-🔬 Featured Projects
-
-🏭 Gas Turbine Fault Detection
-
-Industrial AI • Machine Learning • Predictive Maintenance
-
-A machine learning solution designed to identify potential gas turbine failures using operational sensor data.
-
-Key focus:
-
-* Predictive maintenance
-* Fault detection
-* Feature engineering
-* Classification
-* Model evaluation
-* Industrial analytics
-
-🔗 View Project
-
-⸻
-
-🛢️ Volve Oil Production Analytics
-
-Oil & Gas • Machine Learning • Production Analytics
-
-An analysis of public Volve oil field data focused on understanding production behavior and developing predictive solutions around well performance.
-
-Key focus:
-
-* Production forecasting
-* Well performance analysis
-* Anomaly detection
-* Well classification
-* Energy analytics
-
-🔗 View Project
-
-⸻
-
-💳 Credit Card Fraud Detection
-
-Machine Learning • Anomaly Detection • Financial Analytics
-
-A machine learning solution designed to identify potentially fraudulent transactions within a highly imbalanced financial dataset.
-
-Key focus:
-
-* Classification
-* Fraud detection
-* Anomaly detection
-* Feature engineering
-* Imbalanced datasets
-* Model evaluation
-
-🔗 View Projects
-
-⸻
-
-📡 Telecom Customer Churn Prediction
-
-Machine Learning • Customer Analytics
-
-A predictive machine learning solution designed to identify customers at risk of churn and uncover factors influencing customer retention.
-
-Key focus:
-
-* Classification
-* Customer behavior analysis
-* Feature engineering
-* Predictive modeling
-* Business insights
-
-🔗 View Project
-
-⸻
-
-🎬 Movie Recommendation System
-
-Machine Learning • Recommendation Systems
-
-A recommendation system designed to provide personalized movie recommendations using collaborative filtering and similarity-based techniques.
-
-Key focus:
-
-* Recommendation algorithms
-* Collaborative filtering
-* Similarity analysis
-* Personalization
-
-🔗 View Project
-
-⸻
-
-✈️ SFO Air Traffic Analysis
-
-Data Science • Machine Learning • Aviation Analytics
-
-An end-to-end analysis of San Francisco International Airport traffic data to identify operational patterns, passenger trends, and route characteristics.
-
-Key focus:
-
-* Exploratory Data Analysis
-* Classification
-* Clustering
-* PCA
-* Data visualization
-* Operational analytics
-
-🔗 View Project
-
-⸻
+AI Platforms: IBM watsonx.ai
 
 🎓 Certifications & Professional Development
 
-🏆 ALX Data Science Program
+* IBM AI Engineering Professional Certificate
+* IBM Deep Learning Professional Certificate
+* IBM RAG and Agentic AI Professional Certificate
+* ALX Data Science Program
+* AWS Certified Machine Learning Engineer – Associate
 
-Data Science • Data Analytics • Python • Machine Learning
+Credentials should be listed as completed only after they have been earned.
 
-Professional training covering data analysis, Python programming, statistics, machine learning, and data-driven problem solving.
+📫 Let’s Connect
 
-⸻
-
-🤖 IBM AI Engineering Professional Certificate
-
-AI Engineering • Machine Learning • Deep Learning
-
-Professional development covering machine learning, deep learning, neural networks, and practical AI engineering.
-
-⸻
-
-🧩 IBM RAG & Agentic AI Professional Certificate
-
-Generative AI • RAG • LLMs • Agentic AI
-
-Professional development focused on Large Language Models, Retrieval-Augmented Generation, AI applications, and Agentic AI systems.
+* LinkedIn: Samuel Olagbenro
+* Portfolio: Data Science Portfolio
+* GitHub: @SamuelOlagbenro
 
 ⸻
 
-☁️ AWS Certified Machine Learning Engineer – Associate
-
-AWS • Machine Learning Engineering • Cloud AI
-
-Professional certification demonstrating expertise in implementing and operationalizing machine learning workloads on AWS.
-
-⸻
-
-🎯 How I Approach AI & Data
-
-I believe effective AI solutions start with the problem—not the technology.
-
-My approach:
-
-Problem → Data → Analysis → Modeling → Evaluation → Deployment → Impact
-
-For Generative & Agentic AI systems:
-
-Problem → Context → Retrieval → Reasoning → Tool Use → Evaluation → Action
-
-I focus on building solutions that combine technical depth, practical problem-solving, and measurable business value.
-
-⸻
-
-🌍 Areas of Expertise
-
-🛢️ Oil & Gas Analytics
-
-⚡ Energy & Industrial AI
-
-🏭 Predictive Maintenance
-
-📊 Data Science & Analytics
-
-🤖 Machine Learning
-
-🧠 Artificial Intelligence
-
-✨ Generative AI
-
-🧩 Agentic AI
-
-🔎 RAG Systems
-
-📈 Business Intelligence
-
-⚙️ AI Engineering
-
-⸻
-
-📊 GitHub
-
-⸻
-
-🤝 Let’s Connect
-
-I’m open to Data Science, Machine Learning, AI Engineering, Generative AI, and Agentic AI opportunities, as well as technical collaborations and impactful projects.
-
-🔗 Connect With Me
-
-LinkedIn:
-linkedin.com/in/samuel-olagbenro
-
-GitHub:
-github.com/SamuelOlagbenro
-
-⸻
-
-⭐ Building with Data. Engineering with AI. Solving Real-World Problems.
+Building practical solutions at the intersection of Data Science, Machine Learning, and Agentic AI.
