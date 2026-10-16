@@ -23,7 +23,7 @@ An industrial machine learning project focused on predictive maintenance and ear
 
 Tech: Python · Pandas · Scikit-learn · XGBoost · FastAPI
 
-2. Food Recommendation System with RAG
+2. [Food Recommendation System with RAG](https://github.com/SamuelOlagbenro/Food-Recommendation-System-with-RAG)
 
 A retrieval-augmented recommendation application combining semantic search, structured filtering, and LLM-powered responses.
 
