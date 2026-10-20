@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Samuel Olagbenro</h1>
 <h3 align="center">Data Scientist | AI/ML Engineer</h3>
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=850&lines=I+build+AI+systems+that+ship+AI+products.;Generative+AI+%7C+RAG+%7C+Agentic+AI;Machine+Learning+%7C+Deep+Learning;Predictive+Analytics+%7C+Multi-Agent+Systems"
-       alt="Animated headline: I build AI systems that ship AI products; Generative AI, RAG, and Agentic AI; Machine Learning and Deep Learning; Predictive Analytics and Multi-Agent Systems." />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=850&lines=I+build+AI+systems+that+ship+AI+products.;Generative+AI+%7C+RAG+%7C+Agentic+AI;Machine+Learning+%7C+Deep+Learning;Predictive+Analytics+%7C+Multi-Agent+Systems.;Industrial+AI+%7C+Intelligent+Automation"
+       alt="Animated headline: I build AI systems that ship AI products; Generative AI, RAG, and Agentic AI; Machine Learning and Deep Learning; Predictive Analytics and Multi-Agent Systems; Industrial AI and Intelligent Automation." />
 </p>
 
 I build machine learning systems and AI-powered applications that transform data into actionable insights and intelligent solutions.
