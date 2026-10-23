@@ -5,11 +5,10 @@
        alt="Animated headline: I build AI systems that ship AI products; Generative AI, RAG, and Agentic AI; Machine Learning and Deep Learning; Predictive Analytics and Multi-Agent Systems; Industrial AI and Intelligent Automation." />
 </p>
 
-I build machine learning systems and AI-powered applications that transform data into actionable insights and intelligent solutions.
+I build end-to-end machine learning systems and AI-powered applications that turn data into actionable insights and intelligent solutions.
 
-My work spans Machine Learning, Deep Learning, Generative AI, RAG, and Agentic AI, with particular interests in predictive analytics, industrial AI, and intelligent automation.
+Core Specializations: Machine Learning • Deep Learning • Predictive Analytics • Generative AI • RAG • Agentic AI
 
-🌍 Interested in building practical AI solutions for real-world problems.
 
 🚀 What I Build
 
